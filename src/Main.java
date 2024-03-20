@@ -55,7 +55,7 @@ public class Main {
         float circleResult = findAreaOfCircle(5);
         int angleResult = findAngles(80, 65);
         int differenceDaysResult = getDifferenceDays(date1,date2);
-        String getInitialResult = getInitial("Kurniawan Muhammad Rizki");
+        String getInitialResult = getInitial("Kurniawan  Rizki");
 
         System.out.println("Result of rectangle area = " + RectangleResult);
         System.out.println("Result of circle diameter = " + diameterResult);
